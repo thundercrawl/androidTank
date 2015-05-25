@@ -32,6 +32,8 @@ public class FragMainActivity extends FragmentActivity {
 				return;
 			}
 			
+			//change the code
+			
 
 			System.out.println("First time initialized the framgments !");
 			Mail1Frag firstFragment = new Mail1Frag();
